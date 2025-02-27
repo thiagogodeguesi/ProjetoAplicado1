@@ -6,4 +6,7 @@ https://www.kaggle.com/datasets/honeybearugly/netflix-engagment-dataset?resource
 
 
 # Pessoas
+[Cristiano Prado do Carmo](CristianoPradoCarmo.md)
+[Felipe Garcia Pereira Brathwaite](FelipeGarciaPereiraBrathwaite.md)
+[Ingryd Cristine Hidalgo Sella](IngrydCristineHidalgoSella.md)
 [Thiago Godeguesi](ThiagoGodeguesi.md)
