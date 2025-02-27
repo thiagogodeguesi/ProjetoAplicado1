@@ -1,5 +1,4 @@
 # Thiago Godeguesi
-# Thiago Godeguesi
 
 Oi, bem vindo. Tudo bem ?
 
