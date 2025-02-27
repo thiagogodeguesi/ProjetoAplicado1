@@ -13,7 +13,7 @@ No meu dia a dia, estou envolvido em diversas atividades, tais como:
 * Criação de consultas e aplicação de regras ETL e merge.
 * Desenvolvimento de soluções inteligentes (Smart) e modelagem de dados para criação de dashboards.
 
-Tenho experiência em desenvolver pipelines em Datalakes em camadas, como Bronze/Bruta, Silver e Gold utilizando a ferramenta Databricks com Pyspark. 
+Tenho experiência em desenvolver pipelines em Datalakes em camadas, como Bronze/Bruta, Silver e Gold utilizando a ferramenta Databricks com Pyspark.
 
 Meu foco é garantir a qualidade dos dados, aplicar regras de negócio, realizar ETL e garantir a qualidade dos dados entregues, prontos para o consumo final.
 
@@ -67,7 +67,6 @@ Tecnologias: Databricks - GCP - BigQuery - Spark - Python - SQL - Power BI - C# 
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-
 
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
