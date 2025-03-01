@@ -21,8 +21,14 @@ Atualmente, a Netflix continua investindo em produções próprias, competindo c
 ### Dataset
 Nosso dataset foi obtido no site do Kaggle. ( ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white) )
 
-Link do data set
-https://www.kaggle.com/datasets/honeybearugly/netflix-engagment-dataset?resource=download
+Link do dataset: 
+https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+
+Periodo de coleta: 1999-11-11 - 2005-12-31
+
+**combined_data** (4 versões)
+**movie_titles**
+**qualifying**
 
 ### Visão Geral
 
