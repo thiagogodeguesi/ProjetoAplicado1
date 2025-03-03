@@ -1,6 +1,9 @@
-[![Netflix](https://images.ctfassets.net/4cd45et68cgf/7LrExJ6PAj6MSIPkDyCO86/542b1dfabbf3959908f69be546879952/Netflix-Brand-Logo.png?w=700&h=456)](#)
-# Perfil dos usuários da Netflix
-Projeto aplicado do curso de Ciências de Dados Mackenzie, com a finalidade de explorar os dados disponiveis dos usuários do Netflix
+<img src="/pics/netflix.gif" alt="image" width="1200" height="750">
+
+# Análise das pontuações Netflix
+Projeto aplicado do curso de Ciências de Dados Mackenzie, com a finalidade de explorar os dados disponiveis das votações dos usuários do Netflix.
+[![Netflix](/pics/MCK_horizontal_vermelho.png)](#)
+
 
 ### Netflix
 A Netflix foi fundada em 1997 por Reed Hastings e Marc Randolph, inicialmente como um serviço de aluguel de DVDs pelo correio nos Estados Unidos. Seu diferencial era um modelo de assinatura, sem multas por atraso, que atraiu muitos clientes.
