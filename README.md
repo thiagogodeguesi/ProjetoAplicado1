@@ -31,15 +31,17 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 Periodo de coleta: 1999-11-11 - 2005-12-31
 
-**combined_data** (4 versões)
-**movie_titles**
-**qualifying**
+**combined_data**<br>
+**movie_titles**<br>
+**qualifying**<br>
 
 ### Visão Geral
 
 ### Descritivo dos dados
 
 ### Objetivos e Metas
+Analisar o comportamento dos usuários com as votações, buscando as pontuações de cada filme, análise média de pontuação por ano, pontuação por usuário.
+
 
 ### Cronograma
 
