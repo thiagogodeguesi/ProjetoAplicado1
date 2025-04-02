@@ -18,6 +18,8 @@ A Netflix foi fundada em 1997 por Reed Hastings e Marc Randolph, inicialmente co
 
 Atualmente, a Netflix continua investindo em produções próprias, competindo com outras gigantes do streaming como Disney+, Prime Video e HBO Max.
 
+Mais informações sobre a empresa, [click aqui](Netflix.md).
+
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](https://www.netflix.com/br/)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white)](https://pt.wikipedia.org/wiki/Netflix)
 
