@@ -26,22 +26,29 @@ Mais informações sobre a empresa, [click aqui](Netflix.md).
 ### Dataset
 Nosso dataset foi obtido no site do Kaggle. ( ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white) )
 
-Link do dataset: 
+**Link do dataset:** 
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 Periodo de coleta: 1999-11-11 - 2005-12-31
 
-**combined_data**<br>
+### Arquivos
+**combined_data_1** (Arquivo utilizado na análise.)<br>
+**combined_data_2** (Arquivo desconsiderado na análise.)<br>
+**combined_data_3** (Arquivo desconsiderado na análise.)<br>
+**combined_data_4** (Arquivo desconsiderado na análise.)<br>
+
 **movie_titles**<br>
 **qualifying**<br>
 
 ### Visão Geral
+A Netflix promoveu uma competição aberta chamada “Netflix Prize”, em 2006, para que um novo algoritmo de predição de avaliação de filmes pelos seus assinantes fosse criado.
+Foi oferecido um prêmio de U$ 1.000.000,00 para o vencedor: o grupo conhecido por BellKor's Pragmatic Chaos1, em 2009.
+A título de curiosidade, a Netflix nunca chegou a usar realmente o algoritmo vencedor2.
 
 ### Descritivo dos dados
 
 ### Objetivos e Metas
 Analisar o comportamento dos usuários com as votações, buscando as pontuações de cada filme, análise média de pontuação por ano, pontuação por usuário.
-
 
 ### Cronograma
 
