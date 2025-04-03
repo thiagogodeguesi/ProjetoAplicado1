@@ -32,28 +32,65 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 Periodo de coleta: 1999-11-11 - 2005-12-31
 
 ### Arquivos
-**combined_data_1** (Arquivo utilizado na análise.)<br>
-**combined_data_2** (Arquivo desconsiderado na análise.)<br>
-**combined_data_3** (Arquivo desconsiderado na análise.)<br>
-**combined_data_4** (Arquivo desconsiderado na análise.)<br>
-
+**combined_data_1**<br>
+**combined_data_2**<br>
+**combined_data_3**<br>
+**combined_data_4**<br>
 **movie_titles**<br>
 **qualifying**<br>
+**probe**<br>
 
 ### Visão Geral
-A Netflix promoveu uma competição aberta chamada “Netflix Prize”, em 2006, para que um novo algoritmo de predição de avaliação de filmes pelos seus assinantes fosse criado.
-Foi oferecido um prêmio de U$ 1.000.000,00 para o vencedor: o grupo conhecido por BellKor's Pragmatic Chaos1, em 2009.
-A título de curiosidade, a Netflix nunca chegou a usar realmente o algoritmo vencedor2.
+A Netflix promoveu uma competição aberta chamada “Netflix Prize”, em 2006, para que um novo algoritmo de predição de avaliação de filmes pelos seus assinantes fosse criado.<br>
+Foi oferecido um prêmio de U$ 1.000.000,00 para o vencedor: o grupo conhecido por BellKor's Pragmatic Chaos1, em 2009.<br>
+A título de curiosidade, a Netflix nunca chegou a usar realmente o algoritmo vencedor2.<br>
 
 ### Descritivo dos dados
+O dataset escolhido é formado por um conjunto de 5 (cinco) arquivos em formato “.txt” e 1 (um) arquivo em formato “.csv”, detalhados a seguir. <br>
+1) Os arquivos “combined_data_1.txt”, “combined_data_2.txt”, “combined_data_3.txt” e “combined_data_4.txt” contêm os dados de avaliação realizada pelo assinante, distribuídos da seguinte forma:<br>
+Uma linha contendo o Id do filme seguido de dois pontos e, cada linha subsequente, correspondendo a uma avaliação de um assinante, obedecendo o seguinte formato, separado por vírgula:<br>
+  - Id do assinante, anonimizado
+  - Avaliação, sendo ela um número inteiro em uma escala de 1 a 5
+  - Data da avaliação, no formato YYYY-MM-DD
+
+```MovieID1:
+CustomerID11,Rating11,Date11
+CustomerID12,Rating12,Date12
+…
+MovieID2:
+CustomerID21,Rating21,Date21
+CustomerID22,Rating22,Date22
+…
+```
+2) O arquivo movie_titles.csv contém os dados dos filmes avaliados e disponíveis no catálogo da Netflix, no seguinte formato, separado por vírgula:
+  - Id do filme, anonimizado
+  - Ano de lançamento (variando de 1890 a 2005)
+  - Título
+
+```
+MovieID1,YearOfRelease1,Title1
+MovieID2,YearOfRelease2,Title2
+MovieID3,YearOfRelease3,Title3
+MovieID4,YearOfRelease4,Title4
+...
+```
+
+Os arquivos “probe” e "qualifying" não serão utilizado neste projeto. Ele contém dados de treinamento do modelo desenvolvido, e modelagem e treinamento não faz parte do escopo deste projeto.
 
 ### Objetivos e Metas
 Analisar o comportamento dos usuários com as votações, buscando as pontuações de cada filme, análise média de pontuação por ano, pontuação por usuário.
 
+### Documento de Apresentação
+- [1ª Entrega](#)
+- [2ª Entrega](#)
+
 ### Cronograma
+- [Cronograma](#)
 
-### Fluxograma 
+### Scripts
 
+### Projeto
+Para que o projeto funcione, você deve serguir alguns determinados passos, que são : 
 
 
 ### Autores
