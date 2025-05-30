@@ -82,15 +82,15 @@ Analisar o comportamento dos usuários com as votações, buscando as pontuaçõ
 
 ### Documento de Apresentação
 - [1ª Entrega](#)
-- [2ª Entrega](#)
+- [2ª Entrega](Documentos/PA1_A2_AplicandoConhecimento_Grupo.pdf)
+- [3ª Entrega](Documentos/PA1_Aula03Praticando_10720249_GRUPO.pdf)
+- [4ª Entrega](Documentos/PA1_Aula04Praticando_10720249_GRUPODOC_FINAL.pdf)
 
 ### Cronograma
-- [Cronograma](#)
+- [Cronograma](Documentos/)
 
-### Scripts
-
-### Projeto
-Para que o projeto funcione, você deve serguir alguns determinados passos, que são : 
+### Apresentação
+Quer assistir nossa apresetação utilize o nosso link: [![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/kfGNwVPQiMQ) 
 
 
 ### Autores
